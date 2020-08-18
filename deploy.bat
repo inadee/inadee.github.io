@@ -9,4 +9,4 @@ popd
 pushd %~dp0public
 git add . && git commit -m "Publishing to gh-pages" && git push origin gh-pages
 popd
-rmdir /S /Q %~dp0public
+rmdir /S /Q %~dp0public >nul: 2>nul:
