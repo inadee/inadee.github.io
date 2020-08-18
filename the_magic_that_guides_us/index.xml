@@ -11,5 +11,14 @@
 	<atom:link href="https://inadee.github.io/the_magic_that_guides_us/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Petra Tou Romiou</title>
+      <link>https://inadee.github.io/the_magic_that_guides_us/petratouromiou/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inadee.github.io/the_magic_that_guides_us/petratouromiou/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
