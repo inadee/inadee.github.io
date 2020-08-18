@@ -1,4 +1,4 @@
-baseURL = "https://inadee.gitlab.io/"
+baseURL = "https://inadee.github.io/"
 languageCode = "en-us"
 theme = "kitab"
 title = "Teamwork makes the dream work"
