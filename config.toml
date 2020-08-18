@@ -1,0 +1,14 @@
+baseURL = "https://inadee.gitlab.io/"
+languageCode = "en-us"
+theme = "kitab"
+title = "Teamwork makes the dream work"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+pluralizelisttitles = false
+
+[params]
+  author = "Inadee"
+  description = "Miraculous Ladybug Fanfic"
+  dateFormat = "2006-01-02"
+#  footer1 = "Teamwork makes the dream work"
+#  footer2 = "(c) Cool Books"
