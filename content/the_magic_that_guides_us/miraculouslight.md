@@ -1,5 +1,5 @@
 +++
-title = "MiraculousLight"
+title = "Miraculous Light"
 weight = 0
 date = "2020-12-01"
 archiveOfOurOwn = "https://archiveofourown.org/works/23712082/chapters/56936536"
