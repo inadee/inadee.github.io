@@ -6,7 +6,7 @@
     <description>Recent content on Teamwork makes the dream work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://inadee.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,6 +31,15 @@ Notes Come say hi to me on tumblr! @therealinadee
       <description>Three Days Later
 Marinette was deeply absorbed in a sketch she was working on when she heard a tap on the glass door to her balcony. She put her work down and climbed the ladder to her loft bed. To her surprise, she saw Chat Noir peeking in the window and smiling at her. She grinned back and opened the door to let him in.
 “I’d say look what the cat dragged in but you appear to have come alone!</description>
+    </item>
+    
+    <item>
+      <title>Star Train</title>
+      <link>https://inadee.github.io/the_magic_that_guides_us/startrain/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://inadee.github.io/the_magic_that_guides_us/startrain/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -112,15 +121,6 @@ Marinette was deeply absorbed in a sketch she was working on when she heard a ta
       
       <guid>https://inadee.github.io/the_path_that_leads_to_you/wedding/</guid>
       <description>![Wedding image](/images/wedding.jpg width= &amp;ldquo;300&amp;rdquo;)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://inadee.github.io/the_magic_that_guides_us/startrain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://inadee.github.io/the_magic_that_guides_us/startrain/</guid>
-      <description></description>
     </item>
     
   </channel>
