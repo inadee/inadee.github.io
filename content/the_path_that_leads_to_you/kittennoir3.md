@@ -7,4 +7,4 @@ archiveOfOurOwn = "https://archiveofourown.org/works/23712082/chapters/56936536"
 
 
 
-![Kitten Noir 3 image](/images/kittennoir3.jpg)
+![Kitten Noir 3 image](/images/kittennoir3.jpg width= "300")
