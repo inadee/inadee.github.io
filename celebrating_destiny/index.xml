@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celebrating Destiny on Teamwork makes the dream work</title>
+    <link>https://inadee.github.io/celebrating_destiny/</link>
+    <description>Recent content in Celebrating Destiny on Teamwork makes the dream work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://inadee.github.io/celebrating_destiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wedding</title>
+      <link>https://inadee.github.io/celebrating_destiny/wedding/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://inadee.github.io/celebrating_destiny/wedding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
